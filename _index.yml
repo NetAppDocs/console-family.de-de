@@ -1,0 +1,100 @@
+---
+product-family:
+  title: Dokumentation zur NetApp -Konsole
+  lead: Die NetApp -Konsole ermöglicht die zentrale Verwaltung von Speicher- und Datendiensten
+    in lokalen und Cloud-Umgebungen. Es bietet einheitliche Kontrolle, einfache Bedienung
+    und sicheres Management.  Durchsuchen Sie die Dokumentation nach Funktion oder
+    verwenden Sie die Suche, um Inhalte zu finden.
+  summary: Die NetApp -Konsole ermöglicht die zentrale Verwaltung von Speicher- und
+    Datendiensten in lokalen und Cloud-Umgebungen. Es bietet einheitliche Kontrolle,
+    einfache Bedienung und sicheres Management.  Durchsuchen Sie die Dokumentation
+    nach Funktion oder verwenden Sie die Suche, um Inhalte zu finden.
+  sidebarlinks:
+  - title: Alle
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: Agenten
+    tags: agents
+  - title: Verwaltung
+    tags: console
+  - title: Führung
+    tags: governance
+  - title: Systemzustand
+    tags: health
+  - title: Mobilität
+    tags: data services
+  - title: Schutz
+    tags: data services
+  - title: Storage
+    tags: storage
+  - title: Arbeitslasten
+    tags: data services
+  tiles:
+  - title: Einrichtung und Administration
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: Erfahren Sie, wie Sie mit der Verwendung der NetApp -Konsole beginnen,
+      einschließlich der Einrichtung von Zugriffsverwaltung und Agenten.
+    tags: all, console, agents
+  - title: NetApp Datenservices
+    icon: "./media/icon-backup.png"
+    url: "../data-services-family/index.html"
+    summary: Schützen und sichern Sie Ihre Speicherinfrastruktur.
+    tags: all,health, data services
+  - title: Speicherverwaltung
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-family/index.html"
+    summary: Zentralisierte Verwaltung sowohl für lokale als auch für Cloud-Speicher.
+    tags: all,storage
+  - title: Versionshinweise
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: Informieren Sie sich über die Neuigkeiten rund um die NetApp Console-Plattform
+      und die Datendienste.
+    tags: all
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/console-automation/index.html
+    summary: Verwalten Sie Ihre Cloud-basierten Ressourcen programmgesteuert.
+    tags: all,api
+  - title: Automatisierungszentrum
+    icon: "./media/icon-automation.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: Verwenden Sie skriptbasierte Lösungen, um die Bereitstellung und Integration
+      von NetApp -Produkten und -Services zu automatisieren.
+    tags: all,governance
+  - title: Digitaler Berater (Active IQ)
+    icon: "./media/icon-activeiq.png"
+    url: "../active-iq/index.html"
+    tags: all,health
+    summary: Umsetzbare Informationen für optimale Speicherintegrität.
+  - title: Lizenzen und Abonnements
+    icon: "./media/icon-digital-wallet.png"
+    url: "../console-licenses-subscriptions/index.html"
+    tags: all,console
+    summary: Verwalten und überwachen Sie Ihre Lizenzen und Abonnements.
+  - title: Lebenszyklusplanung
+    icon: "./media/icon-economic-efficiency.png"
+    url: "../console-lifecycle-planning/index.html"
+    summary: Erhalten Sie Empfehlungen für Systeme, die sich der Kapazitätsgrenze
+      nähern, und Systeme, die sich dem Ende ihrer Lebensdauer nähern.
+    tags: all,storage
+  - title: Software-Updates
+    icon: "./media/icon-software-updates.png"
+    url: "../console-software-updates/index.html"
+    summary: Automatisieren Sie die Bewertung, Planung und Ausführung von ONTAP -Upgrades.
+    tags: all,health, storage
+  - title: Speichersystemwarnungen
+    icon: "./media/icon-alerts.png"
+    url: "../console-alerts/index.html"
+    summary: Zeigen Sie Echtzeit-Systemwarnungen für lokale ONTAP -Systeme an und
+      reagieren Sie darauf.
+    tags: all,storage
+  - title: Nachhaltigkeit
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
+    summary: Überwachen Sie die Umweltauswirkungen von Systemen, um Nachhaltigkeitsziele
+      zu erreichen.
+    tags: all,health
