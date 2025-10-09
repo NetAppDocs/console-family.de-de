@@ -1,11 +1,11 @@
 ---
 product-family:
-  title: Dokumentation zur NetApp -Konsole
-  lead: Die NetApp -Konsole ermöglicht die zentrale Verwaltung von Speicher- und Datendiensten
+  title: Dokumentation zur NetApp Console
+  lead: Die NetApp Console ermöglicht die zentrale Verwaltung von Speicher- und Datendiensten
     in lokalen und Cloud-Umgebungen. Es bietet einheitliche Kontrolle, einfache Bedienung
     und sicheres Management.  Durchsuchen Sie die Dokumentation nach Funktion oder
     verwenden Sie die Suche, um Inhalte zu finden.
-  summary: Die NetApp -Konsole ermöglicht die zentrale Verwaltung von Speicher- und
+  summary: Die NetApp Console ermöglicht die zentrale Verwaltung von Speicher- und
     Datendiensten in lokalen und Cloud-Umgebungen. Es bietet einheitliche Kontrolle,
     einfache Bedienung und sicheres Management.  Durchsuchen Sie die Dokumentation
     nach Funktion oder verwenden Sie die Suche, um Inhalte zu finden.
@@ -35,10 +35,10 @@ product-family:
   - title: Einrichtung und Administration
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Erfahren Sie, wie Sie mit der Verwendung der NetApp -Konsole beginnen,
-      einschließlich der Einrichtung von Zugriffsverwaltung und Agenten.
+    summary: Erfahren Sie, wie Sie mit der Verwendung der NetApp Console beginnen,
+      einschließlich der Einrichtung der Zugriffsverwaltung und der Agenten.
     tags: all, console, agents
-  - title: NetApp Datenservices
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: Schützen und sichern Sie Ihre Speicherinfrastruktur.
@@ -51,8 +51,8 @@ product-family:
   - title: Versionshinweise
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: Informieren Sie sich über die Neuigkeiten rund um die NetApp Console-Plattform
-      und die Datendienste.
+    summary: Informieren Sie sich über die Neuigkeiten rund um die NetApp Console
+      -Plattform und die Datendienste.
     tags: all
   - title: API
     icon: "./media/icon-api.png"
@@ -70,7 +70,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: Umsetzbare Informationen für optimale Speicherintegrität.
-  - title: Lizenzen und Abonnements
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
