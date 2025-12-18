@@ -32,7 +32,7 @@ product-family:
   - title: Arbeitslasten
     tags: data services
   tiles:
-  - title: Einrichtung und Administration
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: Erfahren Sie, wie Sie mit der Verwendung der NetApp Console beginnen,
