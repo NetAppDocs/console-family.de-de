@@ -13,6 +13,7 @@ Durch die Registrierung für den Support wird kein NetApp Support für den Datei
 
 
 
+[[support-registration-overview]]
 == Übersicht zur Support-Registrierung
 
 Zur Aktivierung des Supportanspruchs stehen zwei Registrierungsformen zur Verfügung:
@@ -31,12 +32,14 @@ Durch die Registrierung beider Seriennummerntypen werden Funktionen wie das Öff
 
 
 
+[[register-netapp-console-for-netapp-support]]
 == Registrieren Sie die NetApp Console für den NetApp Support
 
 Um sich für den Support zu registrieren und den Supportanspruch zu aktivieren, muss ein Benutzer in Ihrem NetApp Console seinem Konsolen-Login ein NetApp Support-Site-Konto zuordnen. Wie Sie sich für den NetApp Support registrieren, hängt davon ab, ob Sie bereits über ein NetApp Support Site (NSS)-Konto verfügen.
 
 
 
+[[existing-customer-with-an-nss-account]]
 === Bestandskunde mit NSS-Konto
 
 Wenn Sie ein NetApp -Kunde mit einem NSS-Konto sind, müssen Sie sich lediglich über die Konsole für den Support registrieren.
@@ -56,6 +59,7 @@ Beachten Sie, dass anderen Konsolenbenutzern dieser Support-Registrierungsstatus
 
 
 
+[[existing-customer-but-no-nss-account]]
 === Bestandskunde, aber kein NSS-Konto
 
 Wenn Sie bereits NetApp -Kunde mit vorhandenen Lizenzen und Seriennummern, aber _keinem_ NSS-Konto sind, müssen Sie ein NSS-Konto erstellen und es mit Ihrem Konsolen-Login verknüpfen.
@@ -72,6 +76,7 @@ Wenn Sie bereits NetApp -Kunde mit vorhandenen Lizenzen und Seriennummern, aber 
 
 
 
+[[brand-new-to-netapp]]
 === Ganz neu bei NetApp
 
 Wenn Sie NetApp noch nicht kennen und kein NSS-Konto haben, befolgen Sie die nachstehenden Schritte.
@@ -108,6 +113,7 @@ Sobald Sie über Ihr NetApp Support Site-Konto verfügen, verknüpfen Sie das Ko
 
 
 
+[[associate-nss-credentials-for-cloud-volumes-ontap-support]]
 == NSS-Anmeldeinformationen für Cloud Volumes ONTAP Support zuordnen
 
 Um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu aktivieren, müssen Sie Ihrem Konsolenkonto Anmeldeinformationen für die NetApp Support Site zuordnen:
