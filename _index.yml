@@ -104,8 +104,3 @@ product-family:
     summary: Überwachen Sie die Umweltauswirkungen von Systemen, um Nachhaltigkeitsziele
       zu erreichen.
     tags: all,health
-  - title: Gut gestaltetes Dashboard
-    url: https://docs.netapp.com/us-en/console-well-architected/index.html
-    summary: Zuverlässige, sichere, effiziente und kostengünstige Speicherkonfigurationen
-      auf Basis bewährter Verfahren werden bereitgestellt.
-    tags: all,health,storage
