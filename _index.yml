@@ -33,73 +33,60 @@ product-family:
     tags: data services
   tiles:
   - title: NetApp Console
-    icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: Erfahren Sie, wie Sie die NetApp Console nutzen, einschließlich der Einrichtung
       der Zugriffsverwaltung und der Console-Agenten.
     tags: all, console, agents
   - title: NetApp Data Services
-    icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: Schützen und sichern Sie Ihre Speicherinfrastruktur.
     tags: all,health, data services
   - title: Speicherverwaltung
-    icon: "./media/icon-onprem.png"
     url: "../storage-management-family/index.html"
     summary: Zentralisierte Verwaltung sowohl für lokale als auch für Cloud-Speicher.
     tags: all,storage
   - title: Versionshinweise
-    icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: Informieren Sie sich über die Neuigkeiten rund um die NetApp Console
       -Plattform und die Datendienste.
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/console-automation/index.html
     summary: Verwalten Sie Ihre Cloud-basierten Ressourcen programmgesteuert.
     tags: all,api
   - title: Automatisierungszentrum
-    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: Verwenden Sie skriptbasierte Lösungen, um die Bereitstellung und Integration
       von NetApp -Produkten und -Services zu automatisieren.
     tags: all,governance
   - title: Data Infrastructure Insights
-    icon: "./media/icon-compute.png"
     url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
     tags: all,governance
     summary: Überwachen, beheben und optimieren Sie alle Ihre Ressourcen, einschließlich
       Ihrer Public Clouds und Ihrer privaten Data Centers.
   - title: Digitaler Berater (Active IQ)
-    icon: "./media/icon-activeiq.png"
     url: "../active-iq/index.html"
     tags: all,health
     summary: Umsetzbare Informationen für optimale Speicherintegrität.
   - title: Licenses and subscriptions
-    icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
     summary: Verwalten und überwachen Sie Ihre Lizenzen und Abonnements.
   - title: Lebenszyklusplanung
-    icon: "./media/icon-economic-efficiency.png"
     url: "../console-lifecycle-planning/index.html"
     summary: Erhalten Sie Empfehlungen für Systeme, die sich der Kapazitätsgrenze
       nähern, und Systeme, die sich dem Ende ihrer Lebensdauer nähern.
     tags: all,storage
   - title: Software-Updates
-    icon: "./media/icon-software-updates.png"
     url: "../console-software-updates/index.html"
     summary: Automatisieren Sie die Bewertung, Planung und Ausführung von ONTAP -Upgrades.
     tags: all,health, storage
   - title: Speichersystemwarnungen
-    icon: "./media/icon-alerts.png"
     url: "../console-alerts/index.html"
     summary: Zeigen Sie Echtzeit-Systemwarnungen für lokale ONTAP -Systeme an und
       reagieren Sie darauf.
     tags: all,storage
   - title: Nachhaltigkeit
-    icon: "./media/icon-sustainability.png"
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: Überwachen Sie die Umweltauswirkungen von Systemen, um Nachhaltigkeitsziele
       zu erreichen.
